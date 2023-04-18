@@ -63,6 +63,10 @@ cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON -DVTK_SMP_IMPLEMENTATION
 cmake --build . --target parGroupedHashing -j
 ```
 
+## Datasets
+
+https://drive.google.com/drive/folders/12TfEi9djQM3TTk8LkpERdQjxLQXONXCp?usp=sharing
+
 ## Execution Instructions
 
 ### seqClassifier
